@@ -7,7 +7,7 @@
     "members" : [
       {
         "name" : "Molecule Man",
-        "age" : 39,
+        "age" : 30,
         "secretIdentity" : "Dan Jukes",
         "powers" : [
           "Radiation resistance",
