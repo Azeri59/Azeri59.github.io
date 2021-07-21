@@ -7,7 +7,7 @@
     "members" : [
       {
         "name" : "Molecule Man",
-        "age" : 30,
+        "age" : 10,
         "secretIdentity" : "Dan Jukes",
         "powers" : [
           "Radiation resistance",
@@ -17,7 +17,7 @@
       },
       {
         "name" : "Madame Uppercut",
-        "age" : 39,
+        "age" : 20,
         "secretIdentity" : "Jane Wilson",
         "powers" : [
           "Million tonne punch",
@@ -27,7 +27,7 @@
       },
       {
         "name" : "Eternal Flame",
-        "age" : 1000000,
+        "age" : 30,
         "secretIdentity" : "Unknown",
         "powers" : [
           "Immortality",
